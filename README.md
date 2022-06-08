@@ -8,6 +8,8 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 
 ## add latest version to build.gradle for node and npm
 
+### added Jenkins file
+
 ## Running the app
 
 You need a Java JDK 7 or later to run the build. You can run the build like this:
